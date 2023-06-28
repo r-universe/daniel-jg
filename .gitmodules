@@ -1,50 +1,31 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "BeviMed"]
 	path = BeviMed
 	url = https://github.com/cran/BeviMed
-	shallow = true
-	registered = true
 [submodule "gsEasy"]
 	path = gsEasy
 	url = https://github.com/cran/gsEasy
-	shallow = true
-	registered = true
 [submodule "hpoPlot"]
 	path = hpoPlot
 	url = https://github.com/cran/hpoPlot
-	shallow = true
-	registered = true
 [submodule "IntervalSurgeon"]
 	path = IntervalSurgeon
 	url = https://github.com/cran/IntervalSurgeon
-	shallow = true
-	registered = true
 [submodule "ontologyIndex"]
 	path = ontologyIndex
 	url = https://github.com/cran/ontologyIndex
-	shallow = true
-	registered = true
 [submodule "ontologyPlot"]
 	path = ontologyPlot
 	url = https://github.com/cran/ontologyPlot
-	shallow = true
-	registered = true
 [submodule "ontologySimilarity"]
 	path = ontologySimilarity
 	url = https://github.com/cran/ontologySimilarity
-	shallow = true
-	registered = true
 [submodule "paintmap"]
 	path = paintmap
 	url = https://github.com/cran/paintmap
-	shallow = true
-	registered = true
 [submodule "SimReg"]
 	path = SimReg
 	url = https://github.com/cran/SimReg
-	shallow = true
-	registered = true
