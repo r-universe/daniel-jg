@@ -5,15 +5,18 @@
 [submodule "BeviMed"]
 	path = BeviMed
 	url = https://github.com/cran/BeviMed
+[submodule "IntervalSurgeon"]
+	path = IntervalSurgeon
+	url = https://github.com/cran/IntervalSurgeon
+[submodule "SimReg"]
+	path = SimReg
+	url = https://github.com/cran/SimReg
 [submodule "gsEasy"]
 	path = gsEasy
 	url = https://github.com/cran/gsEasy
 [submodule "hpoPlot"]
 	path = hpoPlot
 	url = https://github.com/cran/hpoPlot
-[submodule "IntervalSurgeon"]
-	path = IntervalSurgeon
-	url = https://github.com/cran/IntervalSurgeon
 [submodule "ontologyIndex"]
 	path = ontologyIndex
 	url = https://github.com/cran/ontologyIndex
@@ -26,6 +29,3 @@
 [submodule "paintmap"]
 	path = paintmap
 	url = https://github.com/cran/paintmap
-[submodule "SimReg"]
-	path = SimReg
-	url = https://github.com/cran/SimReg
