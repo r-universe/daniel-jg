@@ -14,9 +14,6 @@
 [submodule "gsEasy"]
 	path = gsEasy
 	url = https://github.com/cran/gsEasy
-[submodule "hpoPlot"]
-	path = hpoPlot
-	url = https://github.com/cran/hpoPlot
 [submodule "ontologyIndex"]
 	path = ontologyIndex
 	url = https://github.com/cran/ontologyIndex
